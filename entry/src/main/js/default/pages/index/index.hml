@@ -1,7 +1,7 @@
-<element name='neutheme' src='../node_modules/hmos-neumorphism/theme/theme.hml'></element>
-<element name='neucheckbox' src='../node_modules/hmos-neumorphism/checkbox/checkbox.hml'></element>
-<element name='neuradio' src='../node_modules/hmos-neumorphism/radio/radio.hml'></element>
-<element name='neuswitcher' src='../node_modules/hmos-neumorphism/switcher/switcher.hml'></element>
+<element name='neutheme' src='../../../../../../node_modules/hmos-neumorphism/theme/theme.hml'></element>
+<element name='neucheckbox' src='../../../../../../node_modules/hmos-neumorphism/checkbox/checkbox.hml'></element>
+<element name='neuradio' src='../../../../../../node_modules/hmos-neumorphism/radio/radio.hml'></element>
+<element name='neuswitcher' src='../../../../../../node_modules/hmos-neumorphism/switcher/switcher.hml'></element>
 
 
 <neutheme class="container" theme="" color="">

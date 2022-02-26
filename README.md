@@ -2,9 +2,7 @@
 
 # Installation :
 
-Install using npm inside pages directory
-
-```npm init -y```
+Install using npm
 
 ```npm i hmos-neumorphism ```
 
@@ -27,7 +25,7 @@ button, input{
 
 Import:
 ```html
-<element name='neucheckbox' src='../node_modules/hmos-neumorphism/checkbox/checkbox.hml'></element>
+<element name='neucheckbox' src='../../../../../../node_modules/hmos-neumorphism/checkbox/checkbox.hml'></element>
 ```
 
 Usage:
@@ -41,7 +39,7 @@ Usage:
 
 Import:
 ```html
-<element name='neuradio' src='../node_modules/hmos-neumorphism/radio/radio.hml'></element>
+<element name='neuradio' src='../../../../../../node_modules/hmos-neumorphism/radio/radio.hml'></element>
 ```
 
 Usage:
@@ -55,7 +53,7 @@ Usage:
 
 Import:
 ```html
-<element name='neuswitcher' src='../node_modules/hmos-neumorphism/switcher/switcher.hml'></element>
+<element name='neuswitcher' src='../../../../../../node_modules/hmos-neumorphism/switcher/switcher.hml'></element>
 ```
 
 Usage:
