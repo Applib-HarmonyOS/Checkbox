@@ -2,16 +2,9 @@
 
 # Installation :
 
-1. Copy the neumorph_checkbox folder in your repo.
-2. Add neumorphism as a dependency in your package.json file.
+Install using npm
 
-```json
-{
-  "dependencies": {
-    "neumorphism": "file:../neumorph_checkbox"
-  }
-}
-```
+```npm i hmos-neumorphism ```
 
 # Note :
 
@@ -32,7 +25,7 @@ button, input{
 
 Import:
 ```html
-<element name='neucheckbox' src='../../../../../../node_modules/neumorphism/checkbox/checkbox.hml'></element>
+<element name='neucheckbox' src='../../../../../../node_modules/hmos-neumorphism/checkbox/checkbox.hml'></element>
 ```
 
 Usage:
@@ -46,7 +39,7 @@ Usage:
 
 Import:
 ```html
-<element name='neuradio' src='../../../../../../node_modules/neumorphism/radio/radio.hml'></element>
+<element name='neuradio' src='../../../../../../node_modules/hmos-neumorphism/radio/radio.hml'></element>
 ```
 
 Usage:
@@ -60,7 +53,7 @@ Usage:
 
 Import:
 ```html
-<element name='neuswitcher' src='../../../../../../node_modules/neumorphism/switcher/switcher.hml'></element>
+<element name='neuswitcher' src='../../../../../../node_modules/hmos-neumorphism/switcher/switcher.hml'></element>
 ```
 
 Usage:
